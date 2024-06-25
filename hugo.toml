@@ -30,4 +30,7 @@ theme = "paper"
   appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
 
 comments = false                            # disable comments for a specific page
-googleAnalytics = "G-155K2EQ3W4"
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-155K2EQ3W4"
