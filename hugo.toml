@@ -1,6 +1,7 @@
 baseURL = 'https://dillondesilva.github.io/thoughtdump'
 languageCode = 'en-us'
 
+title = "Dillon's Thought Dump"
 theme = "paper"
 
 [params]
@@ -14,7 +15,7 @@ theme = "paper"
   # home page profile
   avatar = 'https://gravatar.com/userimage/59791647/890daabe4f340a6f211b72acf199b8ae.jpeg?size=256'                 # gravatar email or image url
   name = 'Dillon de Silva'
-  bio = 'My little microblog filled with lots of random, possibly useful notes'
+  bio = 'My little microblog filled with lots of random, possibly useful notes. I talk mainly about biomedical engineering, ML/AI and software development at the moment'
 
 
   # misc
@@ -27,3 +28,6 @@ theme = "paper"
   graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
   favicon = "favicon.ico"                   # customize the default favicon
   appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
+
+comments = false                            # disable comments for a specific page
+googleAnalytics = "G-155K2EQ3W4"
