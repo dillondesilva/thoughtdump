@@ -2,6 +2,7 @@
 title = 'First Experiences using AWS CDK'
 date = 2024-06-25T19:02:47+10:00
 draft = false
+comments = false
 +++
 I've been using AWS CDK for the first time this week and overall it's been a good experience. Having a programmatic level of control when it comes to provisioning AWS resources and being able to apply different patterns to create SOLID software (pun intended) is what I enjoy about this tool.
 
