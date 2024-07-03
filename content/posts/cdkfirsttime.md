@@ -13,3 +13,5 @@ It's pretty much just been focused on designing some microservice architectures 
 ***Docs can be tricky***
 
 This could be due to my inexperience but one thing I am finding which is the docs can be a little bit all over the place to traverse. In my previous experiences using AWS, this is not a new concept I've discovered. That being said, this could be dependent on what type of resource you are working with (e.g. EC2 constructs were a lot easier for me to navigate compared to using `aws_elasticache`)
+
+*EDIT 3/07/2024*: Looking back at this article with a bit more experience, I've realised the main challenge with using this tool is actually the inconsistency in quality of documentation produced across AWS services. Services like EC2 are significantly easier to
