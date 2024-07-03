@@ -1,7 +1,7 @@
 +++
 title = 'Reflections on Implementing ResNet-8 with Pure Tensorflow Core (No Keras)'
 date = 2024-07-03T19:41:16+10:00
-draft = true
+draft = false
 comments = false
 +++
 **"Any fool can know. The point is to understand." - Albert Einstein**
