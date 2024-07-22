@@ -1,7 +1,7 @@
 +++
 title = 'So I came across Firebase Admin...'
 date = 2024-07-17T09:47:16+10:00
-draft = true
+draft = false
 comments = false
 +++
 One of the things I've always loved about Firebase is how it enables developers (or frankly anyone with some intermediate competency of coding) to quickly translate their ideas into a product. Backend infrastructure can be costly to setup and when it comes to validating if an idea has promise, it may not always be a top priority if some suitable BaaS service can be used in the interim.
